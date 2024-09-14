@@ -1,0 +1,11 @@
+.App {
+    padding: 60px 20px 80px; /* Espaciado para evitar que Navbar y Footer se superpongan */
+    min-height: 100vh;
+    background-color: #ffffff;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+}
